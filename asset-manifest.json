@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3a3b7600.chunk.css",
+    "main.js": "./static/js/main.07928892.chunk.js",
+    "main.js.map": "./static/js/main.07928892.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3993e964.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3993e964.js.map",
+    "static/css/2.3951b408.chunk.css": "./static/css/2.3951b408.chunk.css",
+    "static/js/2.8de1bf85.chunk.js": "./static/js/2.8de1bf85.chunk.js",
+    "static/js/2.8de1bf85.chunk.js.map": "./static/js/2.8de1bf85.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.adef84e43e78dc39155fa39971f390f2.js": "./precache-manifest.adef84e43e78dc39155fa39971f390f2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.3951b408.chunk.css.map": "./static/css/2.3951b408.chunk.css.map",
+    "static/css/main.3a3b7600.chunk.css.map": "./static/css/main.3a3b7600.chunk.css.map",
+    "static/js/2.8de1bf85.chunk.js.LICENSE.txt": "./static/js/2.8de1bf85.chunk.js.LICENSE.txt",
+    "static/media/grocery-cart-with-item-1005638.jpg": "./static/media/grocery-cart-with-item-1005638.f1db196a.jpg",
+    "static/media/labeled-can-lot-on-shelves-2387343.jpg": "./static/media/labeled-can-lot-on-shelves-2387343.98992fcc.jpg",
+    "static/media/logo_round_alpha.png": "./static/media/logo_round_alpha.4ade5e9e.png",
+    "static/media/street-market-fruits-pineapple-shopping-3326215.jpg": "./static/media/street-market-fruits-pineapple-shopping-3326215.4d8b9177.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3993e964.js",
+    "static/css/2.3951b408.chunk.css",
+    "static/js/2.8de1bf85.chunk.js",
+    "static/css/main.3a3b7600.chunk.css",
+    "static/js/main.07928892.chunk.js"
+  ]
+}
