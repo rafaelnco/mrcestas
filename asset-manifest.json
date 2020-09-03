@@ -1,34 +1,35 @@
 {
   "files": {
-    "main.css": "./static/css/main.bd02e505.chunk.css",
-    "main.js": "./static/js/main.b92763de.chunk.js",
-    "main.js.map": "./static/js/main.b92763de.chunk.js.map",
+    "main.css": "./static/css/main.e7e38ea1.chunk.css",
+    "main.js": "./static/js/main.5e7db0d4.chunk.js",
+    "main.js.map": "./static/js/main.5e7db0d4.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.3993e964.js",
     "runtime-main.js.map": "./static/js/runtime-main.3993e964.js.map",
     "static/css/2.91d7c233.chunk.css": "./static/css/2.91d7c233.chunk.css",
-    "static/js/2.7bd88468.chunk.js": "./static/js/2.7bd88468.chunk.js",
-    "static/js/2.7bd88468.chunk.js.map": "./static/js/2.7bd88468.chunk.js.map",
+    "static/js/2.74f4adb6.chunk.js": "./static/js/2.74f4adb6.chunk.js",
+    "static/js/2.74f4adb6.chunk.js.map": "./static/js/2.74f4adb6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b029300ffe2db95e437e5403873a4740.js": "./precache-manifest.b029300ffe2db95e437e5403873a4740.js",
+    "precache-manifest.ab52677029e558cde2ef61fd2ff80f17.js": "./precache-manifest.ab52677029e558cde2ef61fd2ff80f17.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.91d7c233.chunk.css.map": "./static/css/2.91d7c233.chunk.css.map",
-    "static/css/main.bd02e505.chunk.css.map": "./static/css/main.bd02e505.chunk.css.map",
-    "static/js/2.7bd88468.chunk.js.LICENSE.txt": "./static/js/2.7bd88468.chunk.js.LICENSE.txt",
+    "static/css/main.e7e38ea1.chunk.css.map": "./static/css/main.e7e38ea1.chunk.css.map",
+    "static/js/2.74f4adb6.chunk.js.LICENSE.txt": "./static/js/2.74f4adb6.chunk.js.LICENSE.txt",
     "static/media/1.png": "./static/media/1.179c25c2.png",
     "static/media/3.png": "./static/media/3.9eb5b18e.png",
     "static/media/4.png": "./static/media/4.b8194be0.png",
     "static/media/5.png": "./static/media/5.02ea7ce2.png",
-    "static/media/index.css": "./static/media/Saira-Bold.b79af9e8.ttf",
+    "static/media/index.css": "./static/media/Saira-Regular.fb67c607.ttf",
     "static/media/grocery-cart-with-item-1005638.jpg": "./static/media/grocery-cart-with-item-1005638.a2a9a20f.jpg",
     "static/media/labeled-can-lot-on-shelves-2387343.jpg": "./static/media/labeled-can-lot-on-shelves-2387343.282235a9.jpg",
+    "static/media/logoWhite.png": "./static/media/logoWhite.4479eb5f.png",
     "static/media/logo_round_alpha.png": "./static/media/logo_round_alpha.4ade5e9e.png",
     "static/media/street-market-fruits-pineapple-shopping-3326215.jpg": "./static/media/street-market-fruits-pineapple-shopping-3326215.3dbb68a1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3993e964.js",
     "static/css/2.91d7c233.chunk.css",
-    "static/js/2.7bd88468.chunk.js",
-    "static/css/main.bd02e505.chunk.css",
-    "static/js/main.b92763de.chunk.js"
+    "static/js/2.74f4adb6.chunk.js",
+    "static/css/main.e7e38ea1.chunk.css",
+    "static/js/main.5e7db0d4.chunk.js"
   ]
 }

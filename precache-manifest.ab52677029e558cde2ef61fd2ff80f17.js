@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c27f6ae3a25eca9d0aec054f28552b88",
+    "revision": "f86bb13f72797e17d608e3cfcc6da91a",
     "url": "./index.html"
   },
   {
-    "revision": "3d3bc716942fb841c78a",
+    "revision": "91aae10e363205de0856",
     "url": "./static/css/2.91d7c233.chunk.css"
   },
   {
-    "revision": "db36277cc3fb5e219824",
-    "url": "./static/css/main.bd02e505.chunk.css"
+    "revision": "7fa50c946a99825e6c02",
+    "url": "./static/css/main.e7e38ea1.chunk.css"
   },
   {
-    "revision": "3d3bc716942fb841c78a",
-    "url": "./static/js/2.7bd88468.chunk.js"
+    "revision": "91aae10e363205de0856",
+    "url": "./static/js/2.74f4adb6.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "./static/js/2.7bd88468.chunk.js.LICENSE.txt"
+    "revision": "0749163b59fbee32225059cb60c18af6",
+    "url": "./static/js/2.74f4adb6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db36277cc3fb5e219824",
-    "url": "./static/js/main.b92763de.chunk.js"
+    "revision": "7fa50c946a99825e6c02",
+    "url": "./static/js/main.5e7db0d4.chunk.js"
   },
   {
     "revision": "e736dabb8ee024a7b980",
@@ -48,12 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Saira-Bold.b79af9e8.ttf"
   },
   {
+    "revision": "fb67c607c8cf801ca268bc738103ba7e",
+    "url": "./static/media/Saira-Regular.fb67c607.ttf"
+  },
+  {
     "revision": "a2a9a20f7c5f2f2c4cb934ebde809794",
     "url": "./static/media/grocery-cart-with-item-1005638.a2a9a20f.jpg"
   },
   {
     "revision": "282235a9ee10782a9e1630bdeedfd3f3",
     "url": "./static/media/labeled-can-lot-on-shelves-2387343.282235a9.jpg"
+  },
+  {
+    "revision": "4479eb5fef01fd58404c783a9c11af12",
+    "url": "./static/media/logoWhite.4479eb5f.png"
   },
   {
     "revision": "4ade5e9e661d1504f27afcc71955964d",
